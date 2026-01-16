@@ -35,7 +35,7 @@ My research:
 ![Word Cloud 4](img/wordcloud-4.jpeg)
 
 
-- [Download search-result-1.csv](https://raw.githubusercontent.com/fredand04/AJs_Geog458_Lab2/main/assets/search-results-1.csv)
-- [Download search-result-2.csv](https://raw.githubusercontent.com/fredand04/AJs_Geog458_Lab2/main/assets/search-results-2.csv)
-- [Download search-result-3.csv](https://raw.githubusercontent.com/fredand04/AJs_Geog458_Lab2/main/assets/search-results-3.csv)
-- [Download search-result-4.csv](https://raw.githubusercontent.com/fredand04/AJs_Geog458_Lab2/assets/search-results-4.csv)
+- [Download search-result-1.csv](assets/search-result-1.csv)
+- [Download search-result-2.csv](assets/search-result-2.csv)
+- [Download search-result-3.csv](assets/search-result-3.csv)
+- [Download search-result-4.csv](assets/search-result-4.csv)
